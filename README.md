@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushik C</h1>
-<!--<h3 align="center">🚀 SDE @ OneFin | ex-ML Intern @ Unisys | Backend Dev | Rest APIs | Exploring AI & Data | Problem Solver</h3>--!><p align="center">
+<!--<h3 align="center">🚀 SDE @ OneFin | ex-ML Intern @ Unisys | Backend Dev | Rest APIs | Exploring AI & Data | Problem Solver</h3>--!><h4><p align="center">
   <em>Building intelligent systems that solve real-world problems</em>
-</p>---
+</p><h4>---
 
 🚀 About Me
 
